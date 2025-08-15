@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663058311 source:c:\users\user\downloads\adriaanzen_restaurant_43054226\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+

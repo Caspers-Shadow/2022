@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661243918 source:c:\users\user\downloads\toets2\main.cpp
+	<iostream>
+	<string>
+	<string.h>
+

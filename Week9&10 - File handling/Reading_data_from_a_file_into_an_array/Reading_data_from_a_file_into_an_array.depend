@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1666172657 source:c:\users\user\downloads\reading_data_from_a_file_into_an_array\main.cpp
+	<iostream>
+	<fstream>
+
+1666172657 source:c:\users\user\downloads\week9&10 - file handling\reading_data_from_a_file_into_an_array\main.cpp
+	<iostream>
+	<fstream>
+
